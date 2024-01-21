@@ -1,4 +1,4 @@
-<head>Public Toilet Australia - Power BI Dashboard</head>
+<h1>Public Toilet Australia - Power BI Dashboard</h1>
 
 A Power BI Dashboard showing currently open public toilet facilities in Australia. Quickly made this under a few hours.
 
